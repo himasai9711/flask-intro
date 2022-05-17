@@ -1,0 +1,18 @@
+body{
+    align-items: center;
+    font-family: sans-serif;
+}
+form{
+    margin: auto;
+}
+table, th, td {
+    border: 1px solid;
+    width:max-content;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+
+h1{
+    text-align: center;
+}
